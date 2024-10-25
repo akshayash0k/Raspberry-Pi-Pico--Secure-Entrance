@@ -10,7 +10,11 @@ Firmware: RPI_PICO-20240602-v1.23.0 (On date of Upload)
 Sensors & Modules: RFID (RC522), Servo Motor (SG90), RGB Led, Buzzer
 
 Pin Configuration:
+
 RFID: spi_id=0, sck=6, miso=4, mosi=7, cs=5, rst=22
+
 Servo: 0
+
 RGB LED: 10
+
 Buzzer: 14
